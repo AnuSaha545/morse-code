@@ -1,0 +1,4 @@
+WPM: int = 20
+
+DOT_DURATION: float = 1.2 / WPM
+DASH_DURATION: float = DOT_DURATION * 3
